@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/connect"
+        android:id="@+id/connect_device"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:title="@string/disconnect"
+        android:id="@+id/disconnect_device"
+        android:orderInCategory="101"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:title="@string/clear_temperature_data"
+        android:id="@+id/clear_temperature"
+        android:orderInCategory="102"
+        app:showAsAction="never"/>
+    <item
+        android:title="@string/clear_distance_data"
+        android:id="@+id/clear_distance"
+        android:orderInCategory="102"
+        app:showAsAction="never"/>
+</menu>
