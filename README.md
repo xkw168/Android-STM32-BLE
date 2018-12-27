@@ -3,11 +3,13 @@ Android communicate with STM32 with BLE
 
 ### folder introduction
 1. Android ----- android project
-Function：
+
+  Function：
 - bluetooth search/connection, send/receive data
 - data visualization(line chart)
 2. STM32 ----- stm32 project
-Function:
+
+  Function:
 - ...
 - 
 

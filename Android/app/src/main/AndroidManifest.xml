@@ -10,9 +10,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/stm32"
+        android:icon="@mipmap/data"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/stm32"
+        android:roundIcon="@mipmap/data"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:configChanges="keyboardHidden|orientation|screenSize">
